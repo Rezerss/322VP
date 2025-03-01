@@ -1,4 +1,0 @@
-[dependencies]
-tokio = { version = "1", features = ["full"] }
-tun-tap = "0.1"
-futures = "0.3"
